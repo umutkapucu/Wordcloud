@@ -1,0 +1,108 @@
+Curriculum Vitae
+KAPUCU, Umut
+
+
+https://www.umutkapucu.com
+https://www.linkedin.com/in/umut-kapucu-IE/ 
+
+
+Keywords: Industrial Engineer, Ph.D Candidate, Analytic CRM, CRM Projects, Business Analysis, Project Management, R&D, Data Modeling, Segmentation, Marketing Management, Data Quality, Retention and Churn Management, Data Science
+
+Professional Experience
+
+BILYONER.COM (2016 - 2020) 
+CRM, Unit Head, 26/01/2016 – 01/07/2020 
+•	Managing CRM Unit, developing and executing strategies within analytical perspective
+•	Management of CRM and CRM related subjects including segmentation (managerial and behavioral), customer road map, churn management and retention activities
+•	Responsible of managing customer services (both back office and Call Center) in line with customer oriented and quality driven approach
+•	Data mart development for data analysis, BI needs and reporting 
+•	Model development using ML algorithms (churn, product propensities, segmentation)
+•	Data analysis and algorithm development for determining the target audiences for offers/campaigns while not only maximizing the turnover but also minimizing the cost
+•	Loyalty program management
+•	Real time and event triggered offer design on channels
+
+DENÝZBANK AÞ (2013 - 2016) 
+Analytic CRM, Vice President, 01/02/2013 – 25/01/2016 
+•	In charge of projects on CRM and CRM related subjects including segmentation, attrition and retention
+•	Execution (in bank side) of significant R&D projects that are supported by TUBITAK 
+•	Main projects: Collection (Dept) Optimization, ATM/Branch Location Optimization, Social CRM, Internal-Fraud, Campaign Optimization, Vehicle Routing 
+•	Collection (Dept) Project is honored by BAI with “Innovation in Internal Process Improvement Award” in 2014. 
+•	In addition to those; analysis for meeting the requirements of business lines on reporting and MIS, BI support, business analysis, IT-Business Line coordination , propensity (product) and attrition model improvements
+
+ING BANK AÞ (2007 - 2013) 
+•	CRM Strategy and Project Development, Assistant Vice President, 01/10/2010 - 30/01/2013 
+o	In charge of multi-channel CRM and CRM infrastructure projects 
+o	Execution of Data Quality, Single Customer Information File, Single View of Customer, Sales Force Automation
+o	In addition to those; system design for user interfaces (branch), business analysis, business process re-engineering, related 3rd party coordination
+ 
+•	Customer Segment Management, Specialist/Assistant Vice President, 24/02/2009 - 30/09/2010 
+o	Determination and profiling of customer segments, determination of product activity rules, executive reporting, system design and business analysis for customer experience
+o	NPS structure design and implementation along with ING Global 
+o	Feasibility studies for promotion of salary payment agreements and branch network optimization 
+
+•	Customer Contact Point Management, Specialist, 03/12/2007 - 23/02/2009 
+o	Efficiency and effectiveness analysis for distribution channels, usage analysis and customer behavior analysis 
+o	ATM network income/cost analysis based on credit/debit card transactions  
+o	“Acquirer/Issuer bank” analysis and determination of feasible ATM locations 
+o	Setting of sales objectives for branches in order to motive customers to use alternative channels (e-channels) 
+
+MARMARA UNIVERSITY (2008-2009) 
+Faculty of Engineering, Industrial Engineering Department, Visiting Lecturer, Fall 2008-Spring 2009 
+•	Courses given; 
+o	IE496-Current Topics in Industrial Engineering-Management of Finance (Spring 2009) 
+o	IE371-Marketing Management (Fall 2008) 
+
+FÝNANSBANK AÞ (2006-2007) 
+Marketing-Micro Business Marketing, Assistant Supervisor, 14/08/2006 - 29/11/2007 
+•	Campaign and project management, marketing and sales strategy development, ADC use for customer communication
+•	Campaigns designed: Pharmacist Package, Physician Package, POS Package
+•	Business and process development studies on collection of loan, POS and cheque book
+•	Forecasting, feasibility, objective, plan and strategy development for segment
+•	Appr. 200% increase in total loans, 150% increase in TAUM and 200% increase in active customers 
+
+Education
+
+Ph.D, Industrial Engineering 
+Marmara University, Institute of Pure and Applied Sciences (2009 - …) (Thesis stage)
+Thesis Subject: “A new approach to time dependent vehicle routing problem with time windows”
+
+MSc, Business Administration and Technology Management 
+Istanbul Technical University, Institute of Social Sciences (2006 - 2008) 
+Project: “In European Union Perspective, Economy and Technology in Turkey” 
+
+BSc, Industrial Engineering 
+Marmara University, Faculty of Engineering (2001 - 2006) (1+4, English) 
+BSc Thesis: “Segmentation Application in a Telecommunication Company, Turkcell” 
+
+High School
+TC Ziraat Bankasý Science High School, BALIKESIR (1998 - 2001)
+
+Trainings and Certificates 
+
+•	IBM Data Science Professional Certificate, Coursera, 18/05/2020-…, 166h 
+•	Programming with R, Datamind, 05/11/2017 & 21/11/2017, 16h
+•	Analytcs and Data Visualization with R, Datalab, 19/11/2016-20/11/2016, 16h
+•	SAS Enterprise Guide2: Advanced Tasks and Querying, 17/11/2011-19/11/2011, 16h 
+•	SAS Enterprise Guide1: Querying and Reporting, 13/10/2011-15/10/2011, 16h 
+•	Trillium Software, Dflora, 19/10/2010-26/10/2010-04/05/2011, 21h 
+•	PMP Exam Preparation, Istanbul Kurumsal Gelisim, 21/05/2010-23/05/2010, 24h 
+•	Project Management Methodologies and Implementation, Istanbul Kurumsal Geliþim, 07/05/2010-08/05/2010, 16h 
+•	Project Management Methodologies, ING Bank, 30/06/2009, 4h 
+•	Brand Architects, Mediacat, 10/03/2006-11/03/2006, 14h 
+•	Advanced Marketing, Mediacat, 01/03/2006-03/03/2006, 28h 
+•	General Banking, Finansbank, 21/08/2006-15/09/2006, 165h 
+
+Qualifications
+
+•	English (Advanced) 
+•	SQL, SAS Enterprise Guide, Business Objects
+•	MS Office (Advanced) 
+•	SPSS Modeler
+•	LINDO, LINGO, GAMS (Optimization modeling) 
+•	Python
+
+Personal Information 
+
+Date and Place of Birth: 08/11/1983 - Muðla 
+B type driving license
+Github: https://github.com/umutkapucu
